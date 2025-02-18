@@ -1,0 +1,260 @@
+[
+  {
+    "nome": "Fígado acebolado com alho",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Fígado bovino",
+      "quantidade": "200g",
+      "kcal": 170,
+      "proteina_g": 36
+    },
+    "modo_preparo": "Grelhar o fígado com azeite, cebola e alho picado, temperado com sal e pimenta a gosto.",
+    "ingredientes": [
+      "Fígado bovino - 200g",
+      "Cebola - 50g",
+      "Azeite - 5ml",
+      "Alho picado - 5g",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "tempo_preparo": "20 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.26.40%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20grilled%20beef%20liver%20with%20onions%20and%20garlic.%20The%20dish%20is%20garnished%20with%20freshly%20chopped%20parsley%2C%20served%20on%20a%20white.webp"
+  },
+  {
+    "nome": "Peito de frango grelhado com ervas",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Peito de frango",
+      "quantidade": "250g",
+      "kcal": 210,
+      "proteina_g": 52
+    },
+    "modo_preparo": "Temperar o frango com azeite, sal, pimenta e ervas finas, grelhar até dourar.",
+    "ingredientes": [
+      "Peito de frango - 250g",
+      "Azeite - 5ml",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto",
+      "Ervas finas a gosto"
+    ],
+    "tempo_preparo": "25 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.26.38%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20grilled%20chicken%20breast%20seasoned%20with%20herbs.%20The%20chicken%20is%20golden%20brown%2C%20garnished%20with%20fresh%20herbs%2C%20and%20served%20.webp"
+  },
+  {
+    "nome": "Filé de tilápia grelhado com limão",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Tilápia",
+      "quantidade": "200g",
+      "kcal": 180,
+      "proteina_g": 40
+    },
+    "modo_preparo": "Grelhar o filé de tilápia com azeite e suco de limão, temperado com sal e pimenta.",
+    "ingredientes": [
+      "Filé de tilápia - 200g",
+      "Azeite - 5ml",
+      "Suco de limão - 10ml",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto"
+    ],
+    "tempo_preparo": "20 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.13%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20grilled%20tilapia%20fillet%20with%20lemon.%20The%20tilapia%20is%20golden%2C%20served%20with%20a%20drizzle%20of%20lemon%20juice%2C%20and%20garnished%20wi.webp"
+  },
+  {
+    "nome": "Bisteca suína grelhada com alho e alecrim",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Bisteca suína",
+      "quantidade": "250g",
+      "kcal": 290,
+      "proteina_g": 35
+    },
+    "modo_preparo": "Grelhar a bisteca suína com azeite, alho picado e alecrim fresco.",
+    "ingredientes": [
+      "Bisteca suína - 250g",
+      "Azeite - 5ml",
+      "Alho picado - 5g",
+      "Alecrim fresco - 3g",
+      "Sal e pimenta a gosto"
+    ],
+    "tempo_preparo": "30 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.17%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20grilled%20pork%20chop%20with%20garlic%20and%20rosemary.%20The%20pork%20chop%20is%20golden%20brown%20with%20char%20marks%2C%20garnished%20with%20fresh%20.webp"
+  },
+  {
+    "nome": "Patinho bovino moído com cebola e alho",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Patinho moído",
+      "quantidade": "250g",
+      "kcal": 220,
+      "proteina_g": 50
+    },
+    "modo_preparo": "Refogar o patinho moído com azeite, cebola e alho, temperar com sal e pimenta.",
+    "ingredientes": [
+      "Patinho moído - 250g",
+      "Azeite - 5ml",
+      "Cebola picada - 50g",
+      "Alho picado - 5g",
+      "Sal e pimenta a gosto"
+    ],
+    "tempo_preparo": "25 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.22%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20ground%20beef%20cooked%20with%20onions%20and%20garlic.%20The%20dish%20is%20golden%20brown%2C%20served%20with%20caramelized%20onions%20and%20garnishe.webp"
+  },
+  {
+    "nome": "Coxa e sobrecoxa assadas com ervas",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Coxa e sobrecoxa de frango",
+      "quantidade": "300g",
+      "kcal": 290,
+      "proteina_g": 45
+    },
+    "modo_preparo": "Temperar a coxa e sobrecoxa com azeite, ervas, sal e pimenta e assar até dourar.",
+    "ingredientes": [
+      "Coxa e sobrecoxa de frango - 300g",
+      "Azeite - 10ml",
+      "Ervas finas - 3g",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ],
+    "tempo_preparo": "40 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.26%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20roasted%20chicken%20thighs%20and%20drumsticks%20with%20herbs.%20The%20chicken%20is%20golden%20brown%20and%20crispy%2C%20garnished%20with%20fresh%20h.webp"
+  },
+  {
+    "nome": "Ovos mexidos com ervas",
+    "tipo": "almoço",
+    "alimentos": {
+      "proteina": "Ovos",
+      "quantidade": "4 ovos",
+      "kcal": 280,
+      "proteina_g": 28
+    },
+    "modo_preparo": "Bater os ovos com sal e pimenta, cozinhar em fogo baixo com azeite e ervas.",
+    "ingredientes": [
+      "Ovos - 4 unidades",
+      "Azeite - 5ml",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto",
+      "Ervas finas a gosto"
+    ],
+    "tempo_preparo": "10 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.29%20-%20A%20high-resolution%20image%20of%20scrambled%20eggs%20with%20herbs%20on%20a%20white%20plate.%20The%20eggs%20are%20fluffy%2C%20golden%20yellow%2C%20and%20garnished%20with%20fresh%20chopped%20parsley%20or.webp"
+  },
+  {
+    "nome": "Tilápia assada com ervas e alho",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Tilápia",
+      "quantidade": "200g",
+      "kcal": 180,
+      "proteina_g": 40
+    },
+    "modo_preparo": "Assar a tilápia temperada com azeite, alho picado, ervas e sal até dourar.",
+    "ingredientes": [
+      "Filé de tilápia - 200g",
+      "Azeite - 5ml",
+      "Alho picado - 5g",
+      "Ervas finas - 3g",
+      "Sal a gosto"
+    ],
+    "tempo_preparo": "25 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.39.41%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20baked%20tilapia%20with%20herbs%20and%20garlic%2C%20served%20with%20a%20light%20golden%20crust.%20The%20plate%20should%20be%20white%2C%20placed%20on%20a%20wo.webp"
+  },
+  {
+    "nome": "Patinho ao alho e cebola refogado",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Patinho moído",
+      "quantidade": "250g",
+      "kcal": 230,
+      "proteina_g": 48
+    },
+    "modo_preparo": "Refogar o patinho moído com azeite, alho, cebola, sal e pimenta até dourar.",
+    "ingredientes": [
+      "Patinho moído - 250g",
+      "Azeite - 5ml",
+      "Alho picado - 5g",
+      "Cebola picada - 50g",
+      "Sal e pimenta a gosto"
+    ],
+    "tempo_preparo": "20 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.39.59%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20ground%20beef%20saute%CC%81ed%20with%20onions%20and%20garlic%2C%20served%20on%20a%20white%20ceramic%20plate.%20The%20beef%20is%20browned%20and%20garnished%20w.webp"
+  },
+  {
+    "nome": "Bisteca assada com alho e limão",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Bisteca suína",
+      "quantidade": "250g",
+      "kcal": 300,
+      "proteina_g": 38
+    },
+    "modo_preparo": "Assar a bisteca suína temperada com alho picado, azeite, limão e ervas.",
+    "ingredientes": [
+      "Bisteca suína - 250g",
+      "Azeite - 5ml",
+      "Alho picado - 5g",
+      "Suco de limão - 10ml",
+      "Sal e ervas finas a gosto"
+    ],
+    "tempo_preparo": "35 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.28.17%20-%20A%20high-resolution%20image%20of%20a%20plate%20of%20grilled%20pork%20chop%20with%20garlic%20and%20rosemary.%20The%20pork%20chop%20is%20golden%20brown%20with%20char%20marks%2C%20garnished%20with%20fresh%20.webp"
+  },
+  {
+    "nome": "Ovos cozidos com ervas frescas",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Ovos",
+      "quantidade": "4 ovos",
+      "kcal": 280,
+      "proteina_g": 28
+    },
+    "modo_preparo": "Cozinhar os ovos em água fervente, descascar e servir com ervas frescas picadas.",
+    "ingredientes": [
+      "Ovos - 4 unidades",
+      "Ervas frescas picadas - 5g",
+      "Sal a gosto"
+    ],
+    "tempo_preparo": "15 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.40.24%20-%20A%20high-resolution%20image%20of%20hard-boiled%20eggs%20cut%20in%20half%20and%20garnished%20with%20fresh%20herbs%2C%20served%20on%20a%20white%20ceramic%20plate.%20The%20eggs%20have%20bright%20yellow%20y.webp"
+  },
+  {
+    "nome": "Coxa de frango grelhada com ervas e alho",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Coxa de frango",
+      "quantidade": "300g",
+      "kcal": 290,
+      "proteina_g": 45
+    },
+    "modo_preparo": "Grelhar as coxas de frango temperadas com azeite, alho picado, ervas e sal até dourar.",
+    "ingredientes": [
+      "Coxa de frango - 300g",
+      "Azeite - 10ml",
+      "Alho picado - 5g",
+      "Ervas finas - 3g",
+      "Sal a gosto"
+    ],
+    "tempo_preparo": "40 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.40.29%20-%20A%20high-resolution%20image%20of%20grilled%20chicken%20thighs%20seasoned%20with%20garlic%20and%20fresh%20herbs.%20The%20chicken%20is%20golden%20brown%20and%20served%20on%20a%20white%20plate%20with%20a.webp"
+  },
+  {
+    "nome": "Fígado grelhado com cebola e ervas",
+    "tipo": "janta",
+    "alimentos": {
+      "proteina": "Fígado bovino",
+      "quantidade": "200g",
+      "kcal": 170,
+      "proteina_g": 36
+    },
+    "modo_preparo": "Grelhar o fígado com azeite, cebola e ervas frescas, temperado com sal e pimenta.",
+    "ingredientes": [
+      "Fígado bovino - 200g",
+      "Azeite - 5ml",
+      "Cebola picada - 50g",
+      "Ervas frescas - 3g",
+      "Sal e pimenta a gosto"
+    ],
+    "tempo_preparo": "20 minutos",
+    "imagem": "https://storage.googleapis.com/public-personal-erkmann/DALL%C2%B7E%202025-02-18%2019.40.40%20-%20A%20high-resolution%20image%20of%20grilled%20beef%20liver%20with%20onions%20and%20fresh%20herbs.%20The%20liver%20is%20served%20on%20a%20white%20ceramic%20plate%20and%20garnished%20with%20saute%CC%81ed%20oni.webp"
+  }
+]
