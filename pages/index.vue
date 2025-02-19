@@ -51,6 +51,12 @@
             />
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent group-hover:from-black/50 transition-colors duration-300"> </div> <div class="absolute bottom-0 left-0 right-0 p-4">
             <h3 class="text-xl font-bold mb-2">{{ meal.nome }}</h3>
+            <p v-if="meal.alimentos" class="text-sm">
+              Kcal: ~{{ meal.alimentos.kcal }}kcal
+            </p>
+            <p v-if="meal.alimentos" class="text-sm">
+              Proteínas: ~{{ meal.alimentos.proteina_g }}g
+            </p>
             <p class="text-sm">
               Tempo de preparo: {{ meal.tempo_preparo }} minutos
             </p>
@@ -104,7 +110,7 @@
               <ul class="grid grid-cols-1 gap-2">
                 <li class="flex items-center space-x-2">
                   <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
-                  <span>Kcal: {{ selectedMeal.alimentos.kcal }}</span>
+                  <span>Kcal: ~{{ selectedMeal.alimentos.kcal }}kcal</span>
                 </li>
                 <li class="flex items-center space-x-2">
                   <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
@@ -112,7 +118,7 @@
                 </li>
                 <li class="flex items-center space-x-2">
                   <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
-                  <span>Total de Proteína: {{ selectedMeal.alimentos.proteina_g }}g</span>
+                  <span>Total de Proteína: ~{{ selectedMeal.alimentos.proteina_g }}g</span>
                 </li>
               </ul>
             </div>
