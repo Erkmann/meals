@@ -99,7 +99,6 @@
                 </li>
               </ul>
             </div>
-            {{ selectedMeal.alimentos }}
             <div v-if="selectedMeal.alimentos">
               <h4 class="text-xl font-semibold mb-3">Informações:</h4>
               <ul class="grid grid-cols-1 gap-2">
